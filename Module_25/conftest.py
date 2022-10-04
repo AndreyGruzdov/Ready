@@ -8,9 +8,9 @@ from selenium.webdriver.common.by import By
 @pytest.fixture(autouse=True)
 def testing():
 
-    # pytest.driver = webdriver.Chrome('C:\SkillFactory\module_25 task_25_3_1\chromedriver.exe')#Chrome
+    # pytest.driver = webdriver.Chrome('C:\SkillFactory\Driver\chromedriver.exe')#Chrome
     pytest.driver = webdriver.Firefox(
-       executable_path=r"C:\Skillfactory\Ready\SkillFactory\Module_25\geckodriver.exe")  # Firefox
+       executable_path=r"C:\SkillFactory\Driver\geckodriver.exe")  # Firefox
 
     # Переходим на страницу авторизации
     pytest.driver.get('http://petfriends.skillfactory.ru/login')
