@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10fbfa46-0acd-4e4e-b5f2-b828bd8a5e2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Exercise_19.7.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/images/cote.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/images/ims.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_pet_friends.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2DfdFedAVjRRuxN8IBcYMMTIaRt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\SkillFactory\Pytest_REST_ API\pytest_first_test\Exercise_19.7.2\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_pet_friends.py">
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise_19.7.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise_19.7.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_pet_friends" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise_19.7.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_pet_friends.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_pet_friends.test_get_api_key_for_valid_user" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Exercise_19.7.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_pet_friends.test_get_api_key_for_valid_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_pet_friends.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Exercise_19.7.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_pet_friends.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_pet_friends.py" />
+        <item itemvalue="Python tests.pytest for test_pet_friends.test_get_api_key_for_valid_user" />
+        <item itemvalue="Python.test_pet_friends" />
+        <item itemvalue="Python.api" />
+        <item itemvalue="Python.script" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10fbfa46-0acd-4e4e-b5f2-b828bd8a5e2f" name="Default Changelist" comment="" />
+      <created>1661093970139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661093970139</updated>
+      <workItem from="1661093971234" duration="930000" />
+      <workItem from="1661095013192" duration="3017000" />
+      <workItem from="1661099410144" duration="22000" />
+      <workItem from="1661100178796" duration="701000" />
+      <workItem from="1661141368442" duration="422000" />
+      <workItem from="1661144890830" duration="453000" />
+      <workItem from="1661145796858" duration="1318000" />
+      <workItem from="1661147135097" duration="41647000" />
+      <workItem from="1661224756238" duration="12547000" />
+      <workItem from="1661431115881" duration="7132000" />
+      <workItem from="1661514431423" duration="68000" />
+      <workItem from="1661514590787" duration="11000" />
+      <workItem from="1661682324066" duration="267000" />
+      <workItem from="1661922232165" duration="4703000" />
+      <workItem from="1661938316962" duration="595000" />
+      <workItem from="1662003393480" duration="841000" />
+      <workItem from="1662006451780" duration="1739000" />
+      <workItem from="1662097602346" duration="627000" />
+      <workItem from="1663928745464" duration="934000" />
+      <workItem from="1663929755598" duration="107000" />
+      <workItem from="1663931775594" duration="33000" />
+      <workItem from="1663931816920" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="373" key="GridCell.Tab.0.bottom" timestamp="1663931935156">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728/1920.0.1920.1040@-1366.0.1366.728" timestamp="1661100514094" />
+    <state width="1323" height="373" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1663931935156" />
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1663929684420" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1661098654600" />
+    <state width="1323" height="373" key="GridCell.Tab.0.center" timestamp="1663931935156">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728/1920.0.1920.1040@-1366.0.1366.728" timestamp="1661100514094" />
+    <state width="1323" height="373" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1663931935156" />
+    <state width="1877" height="374" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1663929684419" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1661098654600" />
+    <state width="1323" height="373" key="GridCell.Tab.0.left" timestamp="1663931935156">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728/1920.0.1920.1040@-1366.0.1366.728" timestamp="1661100514093" />
+    <state width="1323" height="373" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1663931935156" />
+    <state width="1877" height="374" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1663929684419" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1661098654599" />
+    <state width="1323" height="373" key="GridCell.Tab.0.right" timestamp="1663931935156">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728/1920.0.1920.1040@-1366.0.1366.728" timestamp="1661100514094" />
+    <state width="1323" height="373" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1663931935156" />
+    <state width="1877" height="374" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1663929684420" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1661098654600" />
+    <state x="259" y="11" key="SettingsEditor" timestamp="1663929356341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1182" y="8" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1661432684835" />
+    <state x="259" y="11" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1663929356341" />
+    <state x="-1182" y="8" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1661098083705" />
+    <state x="-1020" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1661168407258">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1020" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1661168407258" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Exercise_19_7_2$pytest_in_test_pet_friends_py.coverage" NAME="pytest in test_pet_friends.py Coverage Results" MODIFIED="1663933034996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Exercise_19_7_2$first_test.coverage" NAME="first_test Coverage Results" MODIFIED="1661097869091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Exercise_19_7_2$pytest_for_first_test_TestCalc.coverage" NAME="pytest for first_test.TestCalc Coverage Results" MODIFIED="1661095111630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Exercise_19_7_2$pytest_for_test_pet_friends_test_successful_update_self_pet_info.coverage" NAME="pytest for test_pet_friends.test_successful_update_self_pet_info Coverage Results" MODIFIED="1661147146649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Exercise_19_7_2$test_pet_friends.coverage" NAME="test_pet_friends Coverage Results" MODIFIED="1661182332106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Exercise_19_7_2$api.coverage" NAME="api Coverage Results" MODIFIED="1661682343767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise_19_7_2$pytest_for_test_pet_friends_test_get_api_key_for_NOTvalid_password.coverage" NAME="pytest for test_pet_friends.test_get_api_key_for_NOTvalid_password Coverage Results" MODIFIED="1661157694753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Exercise_19_7_2$pytest_for_test_pet_friends_test_get_api_key_for_not_valid_user.coverage" NAME="pytest for test_pet_friends.test_get_api_key_for_not_valid_user Coverage Results" MODIFIED="1661160399487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Exercise_19_7_2$pytest_for_test_pet_friends_test_post_change_pet_foto.coverage" NAME="pytest for test_pet_friends.test_post_change_pet_foto Coverage Results" MODIFIED="1661097891720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Exercise_19_7_2$pytest_for_test_pet_friends_test_get_api_key_for_valid_user.coverage" NAME="pytest for test_pet_friends.test_get_api_key_for_valid_user Coverage Results" MODIFIED="1663929778637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+</project>
